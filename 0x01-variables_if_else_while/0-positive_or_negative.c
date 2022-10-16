@@ -2,6 +2,9 @@
 #include <time.h>
 #include <stdlib.h>
 
+/*
+ *  more headers goes there
+ */
 int main(void)
 
 {
