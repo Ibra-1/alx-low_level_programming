@@ -3,12 +3,12 @@
 #include <stdlib.h>
 
 /* more headers goes there */
-/*main-prints if the numbre positive or nactive*/
-/*betty style doc for function main goes there */
+/*main-prints if the numbre positive or nactive
+ * 0
+ * Return: alwayes 0
+ */
 int main(void)
-
-{
-/* your code goes there */ 
+{ /* your code goes there */ 
 	int n;
 
 	srand(time(0));
