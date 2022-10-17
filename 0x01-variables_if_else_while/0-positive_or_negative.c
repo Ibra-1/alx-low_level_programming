@@ -3,6 +3,7 @@
 #include <stdlib.h>
 
 /* more headers goes there */
+/*main-prints if the numbre positive or nactive*/
 /*betty style doc for function main goes there */
 int main(void)
 
