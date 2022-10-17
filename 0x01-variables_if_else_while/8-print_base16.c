@@ -2,6 +2,8 @@
 
 /**
  * main - Entry point
+ *
+ * Return: Always 0
  */
 
 int main(void)
@@ -15,7 +17,7 @@ int main(void)
 		putchar(d + '0');
 		d++;
 	}
-	while (c < 'f'){
+	while (c < 'g'){
 		putchar(c);
 		c++;
 	}
