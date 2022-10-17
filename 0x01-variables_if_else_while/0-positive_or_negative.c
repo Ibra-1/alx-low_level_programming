@@ -1,14 +1,14 @@
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
-
 /* more headers goes there */
-/* main-prints if the numbre positive or nactive
- * 0
+/* main- Entry point
+ * 
  * Return: alwayes 0
  */
+
 int main(void)
-{ /* your code goes there */ 
+{
 	int n;
 
 	srand(time(0));
