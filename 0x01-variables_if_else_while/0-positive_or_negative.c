@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /* more headers goes there */
-/*main-prints if the numbre positive or nactive
+/* main-prints if the numbre positive or nactive
  * 0
  * Return: alwayes 0
  */
