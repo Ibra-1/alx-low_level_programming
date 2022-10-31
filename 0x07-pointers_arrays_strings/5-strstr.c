@@ -28,7 +28,7 @@ char *_strstr(char *i, char *a)
 					return (i);
 
 				index++;
-			}while (i[index] == a[index]);
+			} while (i[index] == a[index]);
 	}
 	i++;
 	}
